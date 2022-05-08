@@ -1,0 +1,1 @@
+{'name': 'test', 'level': 0, 'inventory': {'Potion': {'health potion': 1}}, 'tutorial': 'normal', 'settings': {'Language': 'Deutsch', 'TTs': False}, 'xp': 4, 'xp_to_next_level': 10, 'damage': 5, 'hp': 25, 'maxhp': 25, 'clas_name': 'Magier', 'total_endless_kills': 2}
